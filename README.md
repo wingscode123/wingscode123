@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radithya Fawwaz Aydin  
 
-🎓 **Information Technology Student** | Universitas Brawijaya (5th Semester)  
+🎓 **Information Technology Student** | Universitas Brawijaya (6th Semester)  
 📊 Passionate about **Data Science, Data Analysis, and Machine Learning**  
 🚀 Always learning and exploring the latest in data-driven technologies  
 
