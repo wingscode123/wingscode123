@@ -12,13 +12,15 @@
 
 # 🔹 Projects  
 
-### 📈 Data Analytics Prediction Model  
-A predictive model to identify potential late credit card payments, helping businesses mitigate risks effectively.  
-🔗 [View Project](https://github.com/wingscode123/Data-Analytics_Prediction-Model_FinanKu)  
+## 🧑‍🎓 Predictive Analysis and Classification of Student Depression  
+To develop a binary classification model to predict students at risk of depression with high accuracy and recall, and to identify the most influential
+factors.  
+🔗 [View Project](https://github.com/wingscode123/studepression_predictive-analytic)  
 
-### 🏅 Image Classification System for Sports Athletes  
-Developed an image classification system using **Random Forest** and **Flask**, from dataset scraping to model deployment in an interactive web application.  
-🔗 [View Project](https://github.com/wingscode123/CelebrityFaceRecognition_DS)
+## 🎥 Content-Based Movie Recommendation System (TMDB 5000)   
+To build a movie recommendation system using content-based filtering
+that provides the top 5 recommendations and addresses the cold-start problem (for new users or movies with no historical data). 
+🔗 [View Project](https://github.com/wingscode123/movies_recsys_tmdb5000)
 
 
 # 📊 GitHub Stats:
