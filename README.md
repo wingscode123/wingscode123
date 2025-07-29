@@ -1,4 +1,4 @@
-<img src="C:\Users\Lenovo\Documents\github\wingscode123\github-header-image (3).png">
+![Radithya Fawwaz](img\github-header-image-(3).png)
 
 # 💫 About Me:
 🎓 Information Technology Student | Universitas Brawijaya (7th Semester)<br>📊 Passionate about Data Science, Data Analysis, and Machine Learning<br>🚀 Always learning and exploring the latest in data-driven technologies
@@ -22,7 +22,7 @@ Developed an image classification system using **Random Forest** and **Flask**, 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wingscode123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wingscode123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=wingscode123&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
