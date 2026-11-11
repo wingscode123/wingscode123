@@ -1,33 +1,123 @@
+<div align="center">
+
 ![Radithya Fawwaz](img/github-header-image-(3).png)
 
-# 💫 About Me:
-🎓 Information Technology Student | Universitas Brawijaya (7th Semester)<br>📊 Passionate about Data Science, Data Analysis, and Machine Learning<br>🚀 Always learning and exploring the latest in data-driven technologies
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Radithya+Fawwaz+%F0%9F%91%8B;Data+Science+%7C+Machine+Learning+%7C+GenAI;Building+LLM-powered+apps+with+Gemini+%26+RAG;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://radith-portofolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/radithya-fawwaz-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/radithyafaa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radith.fa@gmail.com)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radithyafaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radithya-fawwaz-) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/radithya-fawwaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radith.fa@gmail.com) 
+![Profile views](https://komarev.com/ghpvc/?username=wingscode123&color=36bcf7&style=flat-square&label=Profile+Views)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+</div>
 
-# 🔹 Projects  
+## 💫 About Me
 
-## 🧑‍🎓 Predictive Analysis and Classification of Student Depression  
-To develop a binary classification model to predict students at risk of depression with high accuracy and recall, and to identify the most influential
-factors.  
-🔗 [View Project](https://github.com/wingscode123/studepression_predictive-analytic)  
+- 🎓 Information Technology student at **Universitas Brawijaya**
+- 📚 Thesis: comparing **Vector-RAG, GraphRAG, and Hybrid-RAG** for multi-hop QA on HotpotQA
+- 🤖 Currently building **AI-powered web apps** with React, TypeScript, and the Gemini API
+- 📊 Passionate about Data Science, Machine Learning, and LLM applications
+- 🌐 Portfolio: [radith-portofolio.vercel.app](https://radith-portofolio.vercel.app)
 
-## 🎥 Content-Based Movie Recommendation System (TMDB 5000)   
-To build a movie recommendation system using content-based filtering
-that provides the top 5 recommendations and addresses the cold-start problem (for new users or movies with no historical data). 
-🔗 [View Project](https://github.com/wingscode123/movies_recsys_tmdb5000)
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&perline=10" alt="ML stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,nodejs,express,html,css&perline=10" alt="Web stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode&perline=10" alt="Tools" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wingscode123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=wingscode123&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wingscode123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Latest Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ [LexGuard AI — T&C Risk Extractor](https://github.com/wingscode123/tnc-risk-extractor)
+AI legal document analyzer that finds hidden risks and unfair clauses in Terms & Conditions, privacy policies, and contracts. Results come back as risk cards (High / Medium / Low) with exportable JSON.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [SubTrack — SaaS Spend Tracker](https://github.com/wingscode123/SubTrack-saas-tracker)
+Track subscriptions and SaaS spending in one dashboard, with spend charts and AI-assisted insights.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Recharts](https://img.shields.io/badge/-Recharts-22B5BF?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐉 [AI Dungeon Master](https://github.com/wingscode123/ai-dungeon-master)
+Interactive text-based RPG driven by Gemini, with strict world-building rules and simulated function calling for dice rolls and inventory.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Thesis: Vector-RAG vs GraphRAG vs Hybrid-RAG](https://github.com/wingscode123/skripsi-rag-hotpotqa)
+Comparative study of RAG architectures for multi-hop question answering on HotpotQA, using Mistral-7B, FAISS, REBEL knowledge graphs, and RAGAS evaluation.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📁 More projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| [🎙️ Speech Emotion Recognition](https://github.com/wingscode123/speech-emotions-recognition-project) | Classifying emotions from speech audio |
+| [📰 Fake News Detection](https://github.com/wingscode123/detecting-fake-news-projects) | NLP model to detect fake news articles |
+| [🩺 Breast Cancer Classification](https://github.com/wingscode123/breast-cancer-classification-project) | ML classifier for breast cancer diagnosis |
+| [⚙️ Workflow CI (MLflow)](https://github.com/wingscode123/Workflow-CI) | ML training pipeline with MLflow and GitHub Actions |
+| [⚽ Football Analysis 2024/2025](https://github.com/wingscode123/ibm-skillsbuild-football-analysis-2024-2025) | Match analysis with an AI summary (IBM Granite) |
+| [🧑‍🎓 Student Depression Prediction](https://github.com/wingscode123/studepression_predictive-analytic) | Binary classification to find students at risk of depression |
+| [🎥 Movie RecSys (TMDB 5000)](https://github.com/wingscode123/movies_recsys_tmdb5000) | Content-based movie recommendations that handle cold start |
+| [🔏 EdDSA Digital Signature](https://github.com/wingscode123/Sistem-Autentikasi-Tanda-Tangan-Digital-EdDSA-SHA-512-Kriptografi) | Digital signature authentication with EdDSA + SHA-512 |
+
+</details>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=wingscode123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingscode123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="metrics.achievements.svg" alt="GitHub achievements" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wingscode123/wingscode123/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wingscode123/wingscode123/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/wingscode123/wingscode123/output/github-snake.svg" />
+  </picture>
+</p>
