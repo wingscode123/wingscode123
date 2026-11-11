@@ -76,7 +76,6 @@ Text-based RPG driven by Gemini, with strict world-building rules and simulated 
 
 <p align="center">
   <img src="metrics.languages.svg" alt="Most used languages" />
-  <img src="metrics.achievements.svg" alt="GitHub achievements" />
 </p>
 
 <p align="center">
