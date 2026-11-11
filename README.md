@@ -104,8 +104,11 @@ Comparative study of RAG architectures for multi-hop question answering on Hotpo
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=wingscode123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingscode123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=wingscode123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="metrics.languages.svg" alt="Most used languages" />
 </p>
 
 ## 🏆 Achievements
